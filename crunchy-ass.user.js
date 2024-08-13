@@ -7,6 +7,7 @@
 // @match        https://static.crunchyroll.com/vilos-v2/web/vilos/player.html
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=crunchyroll.com
 // @grant        none
+// @license      WTFPL; http://www.wtfpl.net
 // ==/UserScript==
 
 (function () {
